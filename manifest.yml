@@ -6,4 +6,3 @@ applications:
   path: target/dkartcarts-0.0.1-SNAPSHOT.jar 
   services:
     - newrelic
-    - registry
