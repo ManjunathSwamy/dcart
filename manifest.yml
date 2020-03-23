@@ -3,6 +3,4 @@ applications:
   memory: 666MB
   host: dkartcarts
   instances: 1
-  path: target/dkartcarts-0.0.1-SNAPSHOT.jar 
-  services:
-    - newrelic
+  path: target/dkartcarts-0.0.1-SNAPSHOT.jar
